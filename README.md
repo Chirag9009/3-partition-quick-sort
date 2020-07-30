@@ -1,1 +1,1 @@
-# Covering-Segments-by-points-problem
+# 3-partition-quick-sort
